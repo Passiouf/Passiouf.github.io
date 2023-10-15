@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<title>Bonchou</title>
+</head>
+
+<body>
+	<h1>Bonjour le monde</h1>
+	<h2>classique 1.0</h2>
+	<p> Yahoo c'est quand meme super d faire des fautes et de recommencer pour apprendre</p>
+	<p>C'est pas imple de faire des versions deiferrentes</p>
+
+</body>
+</html>
